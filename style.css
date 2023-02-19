@@ -1,0 +1,27 @@
+p{
+    font-size: 30px;
+    color: orange;
+}
+.tee2{
+    float: right;
+}
+.tee4 .tee3{
+    text-align: right;
+    font-family: cursive;
+}
+.tee6{
+   width: 100%;
+   height: 1005;
+}
+body{
+    
+    background:url(https://gamesisart.ru/images/G/Terraria_Box.webp);
+      background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ 
+}
